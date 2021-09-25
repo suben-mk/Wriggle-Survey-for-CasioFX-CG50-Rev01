@@ -1,1 +1,1 @@
-# Wriggle-Survey-for-CasioFX-CG50-Rev01
+# Wriggle Survey for CasioFXCG50 Rev01
